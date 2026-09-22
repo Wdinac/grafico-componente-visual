@@ -1,0 +1,1 @@
+# grafico-componente-visual
